@@ -1,0 +1,5 @@
+# GOOFY IDE
+.idea
+
+node_modules
+tests

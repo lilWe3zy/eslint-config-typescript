@@ -1,0 +1,18 @@
+{
+  "name": "@lil_we3zy/eslint-config-ts",
+  "version": "1.1.0",
+  "description": "My personal `eslint-config` for typescript files, borrowing heavily from the AirBnB style guide.",
+  "main": "eslint.config.js",
+  "type": "module",
+  "keywords": ["eslint", "eslintconfig"],
+  "author": "armin",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": ">= 8.23.0",
+    "eslint-plugin-security": ">= 2.1.1",
+    "@eslint/js": ">= 8.57.0",
+    "eslint-plugin-import": ">= 2.29.1",
+    "typescript": ">= 5.4.2",
+    "typescript-eslint": ">= 7.1.1"
+  }
+}
