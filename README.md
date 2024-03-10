@@ -1,9 +1,11 @@
 # Personal `eslint-config`
-This is my personal flat config for eslint for use in typescript projects.
+This is my **personal** flat config for eslint for use in typescript projects.
 
-This config is based on the [AirBnB](https://github.com/airbnb/javascript) style guide, tweaked slightly for personal use case. You can click on any rule to view its corresponding eslint page.
+```shell
+npm install --dev @lil_we3zy/eslint-config-typescypt
+```
 
-There is still testing to be done mind you.
+This config is based on the [AirBnB](https://github.com/airbnb/javascript) style guide, tweaked ~~slightly~~ heavily for personal use case.
 
 ## Plugins
 - security

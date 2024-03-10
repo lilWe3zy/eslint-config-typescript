@@ -4,8 +4,14 @@
   "description": "My personal `eslint-config` for typescript files, borrowing heavily from the AirBnB style guide.",
   "main": "eslint.config.js",
   "type": "module",
-  "keywords": ["eslint", "eslintconfig"],
-  "author": "armin",
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": {
+    "name": "armin",
+    "email": "arminnel@pm.me"
+  },
   "license": "ISC",
   "peerDependencies": {
     "eslint": ">= 8.23.0",
@@ -14,5 +20,18 @@
     "eslint-plugin-import": ">= 2.29.1",
     "typescript": ">= 5.4.2",
     "typescript-eslint": ">= 7.1.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lilWe3zy/eslint-config-typescript/tree/main"
+  },
+  "publishConfig": {
+    "registry": "npm",
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/lilWe3zy/eslint-config-typescript/issues",
+    "email": "arminnel@pm.me"
+  },
+  "homepage": "https://github.com/lilWe3zy/eslint-config-typescript/tree/main"
 }
